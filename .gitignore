@@ -1,5 +1,3 @@
-*.txt
-
 # Ignore all
 *
 
@@ -8,3 +6,5 @@
 
 # Unignore all dirs
 !*/
+
+*.txt
